@@ -1,0 +1,26 @@
+{
+  "name": "astronaut-3d-dynamic-site",
+  "version": "1.0.0",
+  "description": "A cinematic space-travel landing page with full-screen video backgrounds, liquid-glass UI, and motion-rich React components.",
+  "type": "module",
+  "private": false,
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "preview": "vite preview --host 0.0.0.0"
+  },
+  "keywords": [
+    "codex",
+    "landing-page",
+    "3d-website",
+    "space",
+    "react",
+    "tailwindcss",
+    "framer-motion"
+  ],
+  "author": "Zhaohls",
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^6.0.1"
+  }
+}
